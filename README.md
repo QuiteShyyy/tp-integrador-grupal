@@ -5,7 +5,7 @@ Trabajo Práctico Integrador Grupal - Universidad de Palermo
 ## Universidad de Palermo
 **Institución:** Universidad de Palermo  
 **Asignatura:** Computacion Aplicada
-**Año:** 2024
+**Año:** 2026
 
 ---
 
