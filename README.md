@@ -14,8 +14,8 @@ Trabajo Práctico Integrador Grupal - Universidad de Palermo
 | Nombre | Apellido | Legajo |
 |--------|----------|--------|
 | Dante | Prantt Oviedo | 0158208 |
-| Sofia | Mosquera | 12346 |
-| Fernando Jesus | Hidalgo Quispe | 12347 |
+| Sofia | Mosquera | 0161369 |
+| Fernando Jesus | Hidalgo Quispe | 0161781 |
 ---
 
 ## Descripción del Proyecto
